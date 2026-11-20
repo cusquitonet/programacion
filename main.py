@@ -11,7 +11,7 @@ def mostrar_menu():
     '''
     Muestra el texto del menú principal con las siete opciones.
     '''
-    print('\n===== CONTROL DE INVENTARIO =====')
+    print('===== CONTROL DE INVENTARIO =====')
     print('1. Cargar herramientas')
     print('2. Mostrar inventario')
     print('3. Consultar stock')

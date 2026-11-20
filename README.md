@@ -2,10 +2,10 @@
 
 Trabajo Práctico Integrador de la Tecnicatura Universitaria en Programación a Distancia (UTN).
 
-- **Estudiante:** Ahumada Cristian - Ahumada Tomas
+- **Estudiantes:** Ahumada Cristian - Ahumada Tomas
 - **Profesor:** Rigoni Cinthia
 - **Tutor:** Zabala Martina
-- **Repositorio:** https://github.com/cusquitonet/practicas-universidad/tree/master/Programacion/tpi
+- **Repositorio:** https://github.com/cusquitonet/programacion
 - **Video explicativo:** ['acceso al video']
 
 ## Descripción
