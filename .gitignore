@@ -1,0 +1,14 @@
+# Archivos compilados y caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caché de herramientas de pruebas y linters (opcional pero muy común)
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Entornos virtuales (recomendado no subirlos)
+venv/
+.venv/
+env/
