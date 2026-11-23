@@ -6,7 +6,7 @@ Trabajo Práctico Integrador de la Tecnicatura Universitaria en Programación a 
 - **Profesor:** Rigoni Cinthia
 - **Tutor:** Zabala Martina
 - **Repositorio:** https://github.com/cusquitonet/programacion
-- **Video explicativo:** ['acceso al video']
+- **Video explicativo:** https://youtu.be/YW4W62ykZwo
 
 ## Descripción
 
